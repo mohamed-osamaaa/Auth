@@ -33,9 +33,6 @@ PORT=your_server_port
 JWT_SECRET=your_jwt_secret_key
 NODE_ENV=development_or_production
 
-MAILTRAP_TOKEN=your_mailtrap_token
-MAILTRAP_ENDPOINT=your_mailtrap_endpoint
-
 USER=your_email_address
 APP_PASSWORD=your_app_password
 
